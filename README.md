@@ -1,7 +1,7 @@
 # Hacktoberfest-2024
 Hacktoberfest
 
-<img alt="HF2022" src="img/hacktober.png">
+<img alt="HF2022" src="img/hacktober-2024.png">
 
 ### :octocat: Open your first pull request for the Hacktoberfest 2022 challenge.
 
